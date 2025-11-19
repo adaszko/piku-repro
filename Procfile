@@ -1,0 +1,9 @@
+#wsgi: main:app
+wsgi: webappfast:app
+# web: node server.js
+# release: make PROD=1
+# static: /:public,/somepath:somedir
+# cron1: */5 * * * * python batch.py
+# cron2: */5 * * * * python batch.py
+# somepyworker: python somescript.py
+# somenodeworker: node somescript.js
